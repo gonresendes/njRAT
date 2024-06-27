@@ -31,3 +31,5 @@
 ## Start the trojan
 - Double-click in the file and should apper a warning screen, you click in "more info" and "run anyway"
 - It should apper nothing, and the trojan is already running.
+
+- https://github.com/0xPh0enix/njCrypter
