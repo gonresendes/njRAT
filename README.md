@@ -14,6 +14,8 @@
 - Extract the files into a folder
 - double click in the .exe file
 - Choose port 5552
+  ![image](https://github.com/gonresendes/njRAT/assets/145346794/8d727f95-8030-4623-a89a-c341c2e5cf64)
+
 - Click on the "Builder" Botton
 - Insert the IP address of the sender machine
 - Make sure you use the correct port that you placed in steps above
@@ -32,4 +34,14 @@
 - Double-click in the file and should apper a warning screen, you click in "more info" and "run anyway"
 - It should apper nothing, and the trojan is already running.
 
+## njCrypter
+-Installation steps:
+-Follow the link bellow and follow the intallation steps:
 - https://github.com/0xPh0enix/njCrypter
+- Run as administrator
+- Choose the path location and an icon
+- Click on create
+- Your file is ready to use
+
+## Test your both files
+- Use https://www.virustotal.com/gui/home/upload to test your files
