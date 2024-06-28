@@ -45,6 +45,7 @@
 - Choose the path location and an icon
 - Click on create
 - Your file is ready to use
+  
   ![image](https://github.com/gonresendes/njRAT/assets/145346794/fd91f609-dd0e-4da7-a429-96b85d29ee98)
 
 
