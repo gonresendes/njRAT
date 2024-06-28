@@ -51,10 +51,10 @@
 ## Test your both files
 - Use https://www.virustotal.com/gui/home/upload to test your files
 - 
--Test with original file
+- Test with original file
   ![image](https://github.com/gonresendes/njRAT/assets/145346794/96025737-46d0-4a00-abc9-c3bfbf3838da)
 
-- Teste with crypted file
+- Test with crypted file
   ![image](https://github.com/gonresendes/njRAT/assets/145346794/3d094e1b-8249-43a7-900a-67a3d2a39588)
 
 
