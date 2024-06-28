@@ -22,13 +22,16 @@
 - Select "Copy to StartUp" and "Registy StartUp"
 - Select "Copy" and make sure the name is "server.exe" and the directory is pointed to the "%TEMP%" path
 - Click on the Build botton
+  ![image](https://github.com/gonresendes/njRAT/assets/145346794/dbc3427a-3eba-4709-861d-11365d39c3c8)
+
 - Rename the file and place it into a folder
 
 ## Sharing the Trojan
 - To share the file I used a share folder named "sharepoint" that can I access directly in the victim machine, because they are in the same subnet
 - Copy the file .exe that you build and copy to the "sharepoint"
 - In the victim machine, make sure you disabled the real-time protection in windows security, then you can place the .exe file to you desktop
-  
+  ![image](https://github.com/gonresendes/njRAT/assets/145346794/4deaaa68-fd51-4d4b-9720-7109c06e3abd)
+
 
 ## Start the trojan
 - Double-click in the file and should apper a warning screen, you click in "more info" and "run anyway"
@@ -42,6 +45,16 @@
 - Choose the path location and an icon
 - Click on create
 - Your file is ready to use
+  ![image](https://github.com/gonresendes/njRAT/assets/145346794/fd91f609-dd0e-4da7-a429-96b85d29ee98)
+
 
 ## Test your both files
 - Use https://www.virustotal.com/gui/home/upload to test your files
+- 
+-Test with original file
+  ![image](https://github.com/gonresendes/njRAT/assets/145346794/96025737-46d0-4a00-abc9-c3bfbf3838da)
+
+- Teste with crypted file
+  ![image](https://github.com/gonresendes/njRAT/assets/145346794/3d094e1b-8249-43a7-900a-67a3d2a39588)
+
+
