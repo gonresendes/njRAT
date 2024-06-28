@@ -1,6 +1,6 @@
 # njRAT
 
-## PREREQUISITS
+## PREREQUISITES
 - An attacker machine(Preferencly a Windows 10 machine)
 - A Victim machine
 - Disable the anti-virus in both machines
