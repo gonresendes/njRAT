@@ -42,7 +42,7 @@
 -Follow the link bellow and follow the intallation steps:
 - https://github.com/0xPh0enix/njCrypter
 - Run as administrator
-- Choose the path location and an icon
+- Choose the path location of the trojan and an icon to hide 
 - Click on create
 - Your file is ready to use
   
